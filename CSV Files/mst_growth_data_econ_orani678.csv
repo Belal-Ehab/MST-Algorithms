@@ -1,0 +1,5 @@
+Algorithm,Network,Nodes,Edges,Time
+Kruskal,econ-orani678,2529,86979,0.665306568145752
+Prim,econ-orani678,2529,86979,0.4917583465576172
+Boruvka,econ-orani678,2529,86979,1.018921136856079
+Reverse-Delete,econ-orani678,2529,86979,510.51544308662415

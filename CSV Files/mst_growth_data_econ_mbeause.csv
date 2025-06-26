@@ -1,0 +1,5 @@
+Algorithm,Network,Nodes,Edges,Time
+Kruskal,econ-mbeause,496,36609,0.148742914
+Prim,econ-mbeause,496,36609,0.194174767
+Boruvka,econ-mbeause,496,36609,0.181550503
+Reverse-Delete,econ-mbeause,496,36609,17.36502504

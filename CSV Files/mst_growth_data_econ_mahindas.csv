@@ -1,0 +1,5 @@
+Algorithm,Network,Nodes,Edges,Time
+Kruskal,econ-poli-large,1258,7619,0.42903709411621094
+Prim,econ-poli-large,1258,7619,0.08108019828796387
+Boruvka,econ-poli-large,1258,7619,0.09448027610778809
+Reverse-Delete,econ-poli-large,1258,7619,10.447356939315796
